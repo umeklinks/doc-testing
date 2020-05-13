@@ -1,0 +1,4 @@
+#ignore doc-testingenv
+doc-testingenv/
+docs/build/
+docs/source/_templates/
